@@ -1,11 +1,4 @@
-### Moshi Moshi~ I'm Nazwa<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
-<p align="center">
-<a href="https://github.com/NazwaS"><img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/Nazwa.jpg"></a>
-</p>
-<br>
-
-
-
+### bot-kntl
 <p align="center">
 <a href="#"><img title="termux-whatsapp-bot" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -13,26 +6,8 @@
 <a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAZWAS-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-    <a href="https://github.com/NazwaS/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazwaS?style=flat-square"></a>
-    <a href="https://github.com/NazwaS/termux-whatsapp-bot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
-    <a href="https://github.com/NazwaS/termux-whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
-    <a href="https://github.com/NazwaS/termux-whatsapp-bot/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
-    <a href="#"><img title="maintened" src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat"></a>
-    <a href="#"><img title="repo size" src="https://img.shields.io/github/repo-size/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
-    <a href="https://www.codefactor.io/repository/github/nazwas/termux-whatsapp-bot"><img src="https://www.codefactor.io/repository/github/nazwas/termux-whatsapp-bot/badge" alt="CodeFactor" /></a>
-</p>
-
-<p align="center">
     <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
-</p>
-<div align="center">
-<details>
- <summary>🍙 Help me!</summary>
- 
- [Saweria](https://saweria.co/nazwas)
 
- [Trakteer](https://trakteer.id/NazwaS)
- 
 </details>
 </div>
 
@@ -46,15 +21,7 @@
     <a href="https://github.com/FauzyRahadian"><img title="FauzyRahadian" src="https://avatars.githubusercontent.com/u/77146325?s=400&u=986617192608f5104b03a1512d14ca8312f67579&v=4" width="128"></a>
     <a href="https://github.com/rvnzxpl"><img title="rvnzxpl" src="https://avatars.githubusercontent.com/u/78360789?s=460&u=5106e573a2a4f4c41beea8930fb46f13e9c4bb02&v=4" width="128"></a>
     <a href="https://github.com/NazwaS"><img title="NazwaS" src="https://avatars.githubusercontent.com/u/75057738?s=460&u=c7d37d13fdb8977a4474bf743a87a7f39c00dc4b&v=4" width="128"></a>
-</p>
 
-## Tools
-
-```bash
-> Termux
-> WhatsApp
-> 2 HandPhone
-```
 
 ---
 
@@ -121,8 +88,8 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/RezaApa/bot-kntl
+> cd bot-kntl
 > bash install.sh
 ```
 
@@ -139,39 +106,6 @@ Follow The Steps Below!
 ```
 
 ---
-
-## For PC/VPS/RDP
-
-### Download
-
-- Download libwebp & tutorial [here](https://developers.google.com/speed/webp/download)
-- Download FFmpeg [here](https://ffmpeg.org/download.html) - Tutorial Installing [here](http://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/)
-- Download Wget & tutorial [here](http://gnuwin32.sourceforge.net/packages/wget.htm)
-- Download tesseract-ocr [here](https://tesseract-ocr.github.io/tessdoc/Downloads.html) - Tutorial Installing [here](https://emop.tamu.edu/Installing-Tesseract-Windows8)
-- Download NodeJS [here](https://nodejs.org/en/download/)
-- Download Git [here](https://git-scm.com/downloads) - Tutorial Installing [here](https://phoenixnap.com/kb/how-to-install-git-windows)
-
-### Install
-
-```bash
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
-> cd termux-whatsapp-bot
-> npm install
-> npm i imgbb-uploader
-> npm i got
-```
-
-### Starting Bot
-
-```bash
-> npm start
-```
-
-### Stopping Bot
-
-```bash
-> Ctrl + C
-```
 
 ## 120+ Features
 
@@ -367,12 +301,7 @@ Follow The Steps Below!
 
 ---
 
-<img src="http://4.bp.blogspot.com/-XFYyg7bmXe0/UIU9Lt2jaNI/AAAAAAAABw8/UgxWDUoBkaw/s1600/tumblr_mbi70xxizM1r922azo1_500_large.gif">
 
----
-
-## Group
-* <a href="https://chat.whatsapp.com/EiTttieeSNX9GEXjY74Dr2"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Special Thanks To
 
