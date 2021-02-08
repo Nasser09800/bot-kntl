@@ -3,9 +3,9 @@
 <a href="#"><img title="termux-whatsapp-bot" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 ## Information
-- Change vcard contacts on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/nzwa.js#L90)
-- Change Options on [this file](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/options/option.json)
-- Change menu on [this folders](https://github.com/NazwaS/termux-whatsapp-bot/tree/main/database/menu)
+- Change vcard contacts on [this section](https://github.com/RezaApa/bot-kntl/blob/main/nzwa.js#L90)
+- Change Options on [this file](https://github.com/RezaApa/bot-kntl/blob/main/options/option.json)
+- Change menu on [this folders](https://github.com/RezaApa/bot-kntl/tree/main/database/menu)
 
 ---
 
