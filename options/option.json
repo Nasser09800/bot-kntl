@@ -1,10 +1,10 @@
 {
     "botName": "BOT-KNTL",
     "ownerName": "reza.apa_",
-    "BarBarKey": "YOUR_APIKEY",
+    "BarBarKey": "IDxO1TFYnKADlX4pxcHa",
     "ownerNumbers": "6281297285516@s.whatsapp.net",
     "languages": "ind",
     "botPrefix": ".",
-    "memberLimitss": "15",
+    "memberLimitss": "100",
     "userDefaultLimit": "15"
 }
